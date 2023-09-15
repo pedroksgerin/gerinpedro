@@ -7,5 +7,5 @@ Meu nome-é Pedro Gerin
 - Estou no primeiro ano
 - ### VOCẼ PODE ENTRAR EM CONTATO COMIGO: MAILBOX
 
-- pedro.gerin.rodriguesd@escola.pr.gov.br
+- pedro.gerin.rodrigues@escola.pr.gov.br
 - @pedro.gerin.rodrigues
